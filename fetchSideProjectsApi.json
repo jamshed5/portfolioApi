@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Tech-Index (MVP)",
+    "tags": ["Django", "Python", "PostgreSQL"],
+    "videoLink": "https://www.youtube.com/watch?v=-wF5A6WBLRg",
+    "description": "Developed an online course management system using Django, Python, and PostgreSQL, featuring CRUD functionality for lectures and teachers. Enabled educators to create courses, set discounts, and manage content. Integrated Stripe for secure payments on paid courses and optimized course discovery with advanced search and filtering. Facilitated enrollment for both paid and free courses to enhance accessibility."
+  },
+  {
+    "id": 2,
+    "title": "ClubX - Event Management System",
+    "tags": ["Django", "Python", "PostgreSQL"],
+    "videoLink": "https://www.youtube.com/watch?v=HTOSQbIdLa4",
+    "description": "Built an MVP for an event management platform that allows users to create and update profiles, manage venues and events, and search for events. Implemented key features such as user authentication, event participation (join/leave), and interactive functionalities (likes, dislikes, comments, threaded replies). Focused on delivering essential event management capabilities with a scalable and efficient backend."
+  },
+  {
+    "id": 3,
+    "title": "Job-Index (MVP)",
+    "tags": ["Python", "Django Rest Framework", "Python", "PostgreSQL"],
+    "videoLink": "https://www.youtube.com/watch?v=2C1d-zbnsRY",
+    "description": "Built a RESTful API using Django REST Framework for job listings and applications. Enabled anonymous and authenticated users to apply for jobs while restricting job creation, updates, and deletions to authenticated users. Implemented role-based access control and added filtering functionality to enhance job search efficiency."
+  },
+  {
+    "id": 4,
+    "title": "Synchronous Authentication & RBAC Service",
+    "tags": ["FastAPI", "Python", "PostgreSQL"],
+    "videoLink": "#",
+    "description": "Built a fully asynchronous authentication MVP with FastAPI, PostgreSQL, and async SQLAlchemy, implementing JWT access/refresh tokens, bcrypt password hashing, fine-grained role-based permissions (RBAC), and Alembic migrations in a modular, scalable architecture optimized for high concurrency."
+  },
+  {
+    "id": 5,
+    "title": "PMS restful api (DRF) with react",
+    "tags": ["Python", "Django Rest Framework", "Python", "PostgreSQL"],
+    "videoLink": "#",
+    "description": "I built a secure and scalable project management MVP using Django REST Framework, following the MVT design pattern. The system features multi-role access (Admin, Staff, Regular Users) with JWT authentication and full CRUD operations. The React frontend includes protected routes, dynamic project editing, and real-time search by category. PostgreSQL handles structured data and efficient querying."
+  }
+]
