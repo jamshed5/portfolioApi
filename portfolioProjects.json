@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "title": "Tech-Index (MVP)",
+    "frontEnd": true,
+    "backEnd": true,
+    "backEndTags": ["Python", "HTML", "CSS"],
+    "frontEndTags": ["React.js", "HTML", "CSS"],
+    "description": "Developed an online course management system using Django, Python, and PostgreSQL, featuring CRUD functionality for lectures and teachers. Enabled educators to create courses, set discounts, and manage content. Integrated Stripe for secure payments on paid courses and optimized course discovery with advanced search and filtering. Facilitated enrollment for both paid and free courses to enhance accessibility.",
+    "image": "https://colorlib.com/wp/wp-content/uploads/sites/2/personalportfolio-free-template.jpg.avif",
+    "backEndDemo": "https://www.youtube.com/watch?v=OxqL-oKyWqQ&t=7s",
+    "frontEndDemo": "https://modernize-react-minisidebar.netlify.app/dashboards/modern"
+  },
+  {
+    "id": 2,
+    "title": "ClubX - Event Management System",
+    "frontEnd": true,
+    "frontEndTags": ["React.js", "HTML", "CSS"],
+    "description": "Built an MVP for an event management platform that allows users to create and update profiles, manage venues and events, and search for events. Implemented key features such as user authentication, event participation (join/leave), and interactive functionalities (likes, dislikes, comments, threaded replies). Focused on delivering essential event management capabilities with a scalable and efficient backend.",
+    "image": "https://colorlib.com/wp/wp-content/uploads/sites/2/personalportfolio-free-template.jpg.avif",
+    "frontEndDemo": "https://modernize-react-minisidebar.netlify.app/dashboards/modern"
+  },
+  {
+    "id": 3,
+    "title": "Third Project",
+    "frontEnd": true,
+    "backEnd": true,
+    "backEndTags": ["Python", "HTML", "CSS"],
+    "frontEndTags": ["React.js", "HTML", "CSS"],
+    "description": "backend project description",
+    "image": "https://colorlib.com/wp/wp-content/uploads/sites/2/personalportfolio-free-template.jpg.avif",
+    "backEndDemo": "https://www.youtube.com/watch?v=OxqL-oKyWqQ&t=7s",
+    "frontEndDemo": "https://modernize-react-minisidebar.netlify.app/dashboards/modern"
+  }
+]
+
